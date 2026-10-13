@@ -1,1 +1,2 @@
 stock reservation for 15 minutes
+release stock when the timer expires
